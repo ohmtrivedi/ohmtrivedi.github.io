@@ -137,16 +137,19 @@ content:
   - title: Conferences & Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Presented on “Accessing VistA using Web/Mobile Apps” in the 2016 OSEHRA Open Source Summit. OSEHRA is Open Source Electronic Health Record Alliance. Recording: https://bit.ly/2qkQR8r
-      - Contributed to the open-source community of VistA EHR, Vistapedia, on “Configuring EWD.js with VistA”. See the article here: http://bit.ly/1WQf557
+      - Presented on “Accessing VistA using Web/Mobile Apps” in the 2016 OSEHRA Open Source Summit. OSEHRA is Open Source Electronic Health Record Alliance. Recording available [_here_](https://bit.ly/2qkQR8r).
+      - Contributed to the open-source community of VistA EHR, Vistapedia, on “Configuring EWD.js with VistA”. Read the article [_here_] (http://bit.ly/1WQf557).
   
   - title: Technical Skills
     layout: text
     content: |
-      | **Programming Languages:** | Java, Python, SQL & PL/SQL, JavaScript (Node.js), C++, HTML, SAS                                                  | **Health IT:**                | Intersystems Cache DB and middleware-tools, VistA EHR (MUMPS), SMART on FHIR |
-      | **DBMS:**                  | Oracle, MySQL, MongoDB                                                                                            | **Project Management Tools:** | GitHub, Trello                                                               |
-      | **IDEs:**                  | IntelliJ IDEA, Anaconda Python Distribution, PyCharm, SAS Enterprise Guide, MS Visual Studio, Intersystems Studio | **Platforms:**                | Windows, Linux, AWS                                                          |
-      | **Other Softwares:**       | Oracle VirtualBox, PuTTy, WinSCP/FileZilla, Protege, MS Office                                                    |                               |                                                                              |
+      - **Programming Languages:** Java, Python, SQL & PL/SQL, JavaScript (Node.js), C++, HTML, SAS
+      - **IDEs:** IntelliJ IDEA, Anaconda Python Distribution, PyCharm, SAS Enterprise Guide, MS Visual Studio, Intersystems Studio
+      - **DBMS:** Oracle, MySQL, MongoDB
+      - **Health IT:** Intersystems Cache DB and middleware-tools, VistA EHR (MUMPS), SMART on FHIR
+      - **Project Management Tools:** GitHub, Trello
+      - **Platforms:** Windows, Linux, AWS
+      - **Other Softwares:** Oracle VirtualBox, PuTTy, WinSCP/FileZilla, Protege, MS Office
 
   - title: A Little More About Me
     layout: text
