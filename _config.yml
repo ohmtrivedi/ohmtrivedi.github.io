@@ -78,8 +78,7 @@ content:
         link: https://risk.lexisnexis.com/
         # link_text: boringcompany.com
         sub_title: Software Engineer II
-        caption: January 2019 - Present
-        caption: Boca Raton, FL
+        caption: January 2019 - Present | Boca Raton, FL
         # quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -87,8 +86,7 @@ content:
       - layout: left
         title: Florida Atlantic University
         sub_title: Graduate Research Assistant
-        caption: May 2017 - April 2018
-        caption: Boca Raton, FL
+        caption: May 2017 - April 2018 | Boca Raton, FL
         # quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -101,8 +99,7 @@ content:
       - layout: left
         title: Florida Atlantic University
         sub_title: Research Assistant (Undergraduate Study Abroad Program)
-        caption: May 2017 - April 2018
-        caption: Boca Raton, FL
+        caption: May 2017 - April 2018 | Boca Raton, FL
         description: | # this will include new lines to allow paragraphs
             Through FAU's [NSF IUCRC](http://mlab.fau.edu/cake/) project, worked with ARC Devices USA Inc. (Boca Raton, FL).
             
@@ -115,8 +112,7 @@ content:
       - layout: left
         title: Florida Atlantic University
         sub_title: MS Computer Science
-        caption: Spring 2017 - Fall 2018
-        caption: Boca Raton, FL
+        caption: Spring 2017 - Fall 2018 | Boca Raton, FL
         # quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -126,8 +122,7 @@ content:
       - layout: left
         title: NIRMA University
         sub_title: BTech Computer Engineering
-        caption: 2012 - 2016
-        caption: Ahmedabad, India
+        caption: 2012 - 2016 | Ahmedabad, India
         # quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
