@@ -74,7 +74,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: LexisNexis Risk Solutions
+        title: LexisNexis Risk Solutions (Boca Raton, FL)
         link: https://risk.lexisnexis.com/
         # link_text: boringcompany.com
         sub_title: Software Engineer II
@@ -83,29 +83,51 @@ content:
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             As part of the R&D team, main responsibilities have been design, development and support of Java-based solutions. Specifically focused on a code automation tool that is used extensively for data modeling and consequent model validation, resulting in efficiency and faster time-to-market.
+      - layout: left
+        title: Florida Atlantic University (Boca Raton, FL)
+        sub_title: Graduate Research Assistant
+        caption: May 2017 - April 2018
+        # quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Through FAU's [NSF IUCRC](http://mlab.fau.edu/cake/) project, worked with the Credit Risk and Management Department and the Centre of Excellence in Machine Learning at [World Omni Financial Corp.](https://www.worldomni.com/) (Deerfield Beach, FL). Worked on multiple projects aimed to improve the efficiency of business operations in the company.
+            
+            - Developed a process automation project which calculates daily delinquencies and dynamic estimates of daily and month-end delinquencies and aggregates them in permanent datasets, along with error handling using default scenarios.
+            - Afforded the company to build automated Delinquency Dashboards using the permanent datasets to be shared with the management on daily basis.
+            - Built and analyzed multiple models (Monte Carlo Simulation, Pattern Recognition and Time Series) which based on historical call logs and performance of all accounts, estimates the optimum number of agents for staffing a call-center.
+            - Analyzed, processed and migrated complex datasets using advanced querying and visualization tools.
+      - layout: left
+        title: Florida Atlantic University (Boca Raton, FL)
+        sub_title: Research Assistant (Undergraduate Study Abroad Program)
+        caption: May 2017 - April 2018
+        description: | # this will include new lines to allow paragraphs
+            Through FAU's [NSF IUCRC](http://mlab.fau.edu/cake/) project, worked with ARC Devices USA Inc. (Boca Raton, FL).
+            
+            - Implemented a cloud-based back-end setup (NoSQL DB and REST API) to store and share (in compatible formats) temperature data from a Bluetooth-enabled thermometer via a healthcare mobile app. See Article: https://bit.ly/2GLRlzw
+            - Built a framework of integrated open-source tools (NoSQL DB and REST API) to support the development of healthcare apps (on top of VistA EHR), thus providing interoperability, data analytics, and mobile access. Demo: https://bit.ly/2qjpwEw
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Florida Atlantic University
+        title: Florida Atlantic University (Boca Raton, FL)
         caption: Spring 2017 - Fall 2018
         sub_title: MS Computer Science
         # quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          GPA: 3.92/4.0
-          Thesis: “Microservices-based approach for Healthcare Cybersecurity”
-          Activities: Member of the honorary club, Upsilon Pi Epsilon and Outreach Officer of Indian Students Association
+          - **GPA:** 3.92/4.0
+          - **Thesis:** “Microservices-based approach for Healthcare Cybersecurity”
+          - **Activities:** Member of the honorary club, **Upsilon Pi Epsilon** and _Outreach Officer_ of **Indian Students Association**
       - layout: left
-        title: NIRMA University
+        title: NIRMA University (Ahmedabad, India)
         caption: 2012 - 2016
         sub_title: BTech Computer Engineering
         # quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          GPA: 3.92/4.0
-          Activities: Volunteered as Technical Lead & Mentor for NUmeracy Hope, a student's initiative to help in educating the underprivileged youth.
+          - **GPA:** 3.92/4.0
+          - **Activities:** Volunteered as _Technical Lead & Mentor_ for **NUmeracy Hope**, a student's initiative to help in educating the underprivileged youth.
 
   - title: A Little More About Me
     layout: text
