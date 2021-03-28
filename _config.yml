@@ -74,9 +74,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: LexisNexis Risk Solutions (Boca Raton, FL)
+        title: LexisNexis Risk Solutions
         link: https://risk.lexisnexis.com/
         # link_text: boringcompany.com
+        sub_title: Boca Raton, FL
         sub_title: Software Engineer II
         caption: January 2019 - Present
         # quote: >
@@ -84,7 +85,8 @@ content:
         description: | # this will include new lines to allow paragraphs
             As part of the R&D team, main responsibilities have been design, development and support of Java-based solutions. Specifically focused on a code automation tool that is used extensively for data modeling and consequent model validation, resulting in efficiency and faster time-to-market.
       - layout: left
-        title: Florida Atlantic University (Boca Raton, FL)
+        title: Florida Atlantic University
+        sub_title: Boca Raton, FL
         sub_title: Graduate Research Assistant
         caption: May 2017 - April 2018
         # quote: >
@@ -97,7 +99,8 @@ content:
             - Built and analyzed multiple models (Monte Carlo Simulation, Pattern Recognition and Time Series) which based on historical call logs and performance of all accounts, estimates the optimum number of agents for staffing a call-center.
             - Analyzed, processed and migrated complex datasets using advanced querying and visualization tools.
       - layout: left
-        title: Florida Atlantic University (Boca Raton, FL)
+        title: Florida Atlantic University
+        sub_title: Boca Raton, FL
         sub_title: Research Assistant (Undergraduate Study Abroad Program)
         caption: May 2017 - April 2018
         description: | # this will include new lines to allow paragraphs
@@ -110,7 +113,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Florida Atlantic University (Boca Raton, FL)
+        title: Florida Atlantic University
+        sub_title: Boca Raton, FL
         caption: Spring 2017 - Fall 2018
         sub_title: MS Computer Science
         # quote: >
@@ -120,14 +124,29 @@ content:
           - **Thesis:** “Microservices-based approach for Healthcare Cybersecurity”
           - **Activities:** Member of the honorary club, **Upsilon Pi Epsilon** and _Outreach Officer_ of **Indian Students Association**
       - layout: left
-        title: NIRMA University (Ahmedabad, India)
+        title: NIRMA University
+        sub_title: Ahmedabad, India
         caption: 2012 - 2016
         sub_title: BTech Computer Engineering
         # quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          - **GPA:** 3.92/4.0
+          - **GPA:** 3.6/4.0 (First Class with Distinction)
           - **Activities:** Volunteered as _Technical Lead & Mentor_ for **NUmeracy Hope**, a student's initiative to help in educating the underprivileged youth.
+
+  - title: Conferences & Publications
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Presented on “Accessing VistA using Web/Mobile Apps” in the 2016 OSEHRA Open Source Summit. OSEHRA is Open Source Electronic Health Record Alliance. Recording: https://bit.ly/2qkQR8r
+      - Contributed to the open-source community of VistA EHR, Vistapedia, on “Configuring EWD.js with VistA”. See the article here: http://bit.ly/1WQf557
+  
+  - title: Technical Skills
+    layout: text
+    content: |
+      | **Programming Languages:** | Java, Python, SQL & PL/SQL, JavaScript (Node.js), C++, HTML, SAS                                                  | **Health IT:**                | Intersystems Cache DB and middleware-tools, VistA EHR (MUMPS), SMART on FHIR |
+      | **DBMS:**                  | Oracle, MySQL, MongoDB                                                                                            | **Project Management Tools:** | GitHub, Trello                                                               |
+      | **IDEs:**                  | IntelliJ IDEA, Anaconda Python Distribution, PyCharm, SAS Enterprise Guide, MS Visual Studio, Intersystems Studio | **Platforms:**                | Windows, Linux, AWS                                                          |
+      | **Other Softwares:**       | Oracle VirtualBox, PuTTy, WinSCP/FileZilla, Protege, MS Office                                                    |                               |                                                                              |
 
   - title: A Little More About Me
     layout: text
