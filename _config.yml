@@ -12,7 +12,7 @@ email: ohmtrivedi@gmail.com
 website: https://ohmtrivedi.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: techyOhm
@@ -46,9 +46,9 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile_pic.jpg
+about_profile_image: images/profile_pic_2.jfif
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Ohm and I'm a Software Developer. I'm a creative and critical thinker possessing strong software-development skills including micro-services, statistical, analytical, visualization and reporting skills, combined with a strong understanding of business processes and strong communication skills. 
+  Software Developer with 3+ years of experience developing Java-based solutions. I'm a creative and critical thinker possessing strong software-development skills including micro-services, statistical, analytical, visualization and reporting skills, combined with a strong understanding of business processes and strong communication skills. 
 
 content:
   # - title: Projects # Title for the section
@@ -77,12 +77,14 @@ content:
         title: LexisNexis Risk Solutions
         link: https://risk.lexisnexis.com/
         # link_text: boringcompany.com
-        sub_title: Software Engineer II
+        sub_title: Software Engineer III
         caption: January 2019 - Present | Boca Raton, FL
         # quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            As part of the R&D team, main responsibilities have been design, development and support of Java-based solutions. Specifically focused on a code automation tool that is used extensively for data modeling and consequent model validation, resulting in efficiency and faster time-to-market.
+            - Member of core R&D team which works on building a next-generation purely Java-based data processing platform.
+            - Working on design, development of and supporting a code integrator tool that is used extensively for data modeling and consequent model validation, resulting in efficiency and faster time-to-market.
+            - Also working on development of Java-based solutions running behind proprietary data linking technology which helps to match and manage more than 250M U.S. consumer identities.
       - layout: left
         title: Florida Atlantic University
         sub_title: Graduate Research Assistant
